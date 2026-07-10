@@ -112,11 +112,6 @@ Book_Price_Rating_Analysis/
 │   ├── top10_expensive.png
 │   └── top10_cheapest.png
 │
-├── linkedin/                   ← Portfolio & branding content
-│   ├── project_post.md
-│   ├── internship_post.md
-│   ├── hashtags.md
-│   └── cover_design_prompt.md
 │
 ├── docs/
 │   └── technical_notes.md
