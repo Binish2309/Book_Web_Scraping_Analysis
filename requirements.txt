@@ -1,0 +1,27 @@
+# Book Price & Rating Analysis — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Web Scraping
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.3.0
+
+# Data Engineering & Analysis
+pandas==2.2.3
+numpy==1.26.4
+
+# Visualisation
+matplotlib==3.9.4
+seaborn==0.13.2
+plotly==5.24.1
+
+# Dashboard
+streamlit==1.41.1
+
+# Notebook
+jupyter==1.1.1
+notebook==7.3.2
+nbformat==5.10.4
+
+# Utilities
+python-dotenv==1.0.1
