@@ -1,4 +1,4 @@
-# 📚 Book Price & Availability Analysis
+# 📚 Book Web Scraping and Analysis 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -86,7 +86,7 @@ Dev Tooling     →  Git · virtual env · logging · PEP 8
 ## 🗂️ Project Architecture
 
 ```
-Book_Price_Rating_Analysis/
+Book_Web_Scraping_Analysis/
 │
 ├── app.py                      ← Streamlit dashboard (4 pages)
 ├── scraper.py                  ← Production web scraper
